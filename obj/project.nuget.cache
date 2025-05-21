@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F57/zQiF7Af+7GAa5Wqi+6c0/2jY6ag18PJFdAbOORy0Oa0BaiJPDR4fVrr8s+RnoUiQzmVEJ6oypNn3VQlHBQ==",
+  "success": true,
+  "projectFilePath": "/home/samuel/busca-cep/cep-achar/cep-achar.csproj",
+  "expectedPackageFiles": [
+    "/home/samuel/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

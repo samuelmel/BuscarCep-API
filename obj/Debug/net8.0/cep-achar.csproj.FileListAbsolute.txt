@@ -1,0 +1,17 @@
+/home/samuel/busca-cep/cep-achar/bin/Debug/net8.0/cep-achar
+/home/samuel/busca-cep/cep-achar/bin/Debug/net8.0/cep-achar.deps.json
+/home/samuel/busca-cep/cep-achar/bin/Debug/net8.0/cep-achar.runtimeconfig.json
+/home/samuel/busca-cep/cep-achar/bin/Debug/net8.0/cep-achar.dll
+/home/samuel/busca-cep/cep-achar/bin/Debug/net8.0/cep-achar.pdb
+/home/samuel/busca-cep/cep-achar/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.csproj.AssemblyReference.cache
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.AssemblyInfoInputs.cache
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.AssemblyInfo.cs
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.csproj.CoreCompileInputs.cache
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.csproj.CopyComplete
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.dll
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/refint/cep-achar.dll
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.pdb
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/cep-achar.genruntimeconfig.cache
+/home/samuel/busca-cep/cep-achar/obj/Debug/net8.0/ref/cep-achar.dll
