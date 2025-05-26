@@ -18,9 +18,9 @@ namespace BuscaCep
             {
                 string url = $"https://viacep.com.br/ws/{Cep}/json/";
 
-                var responsta = await client.GetStringAsync(url);
+                var resposta = await client.GetStringAsync(url);
 
-                var endereco = JsonConvert.DeserializeObject<Endereco>(responsta);
+                var endereco = JsonConvert.DeserializeObject<Endereco>(resposta);
 
                 if (endereco != null && endereco.Cep != null)
                 {
